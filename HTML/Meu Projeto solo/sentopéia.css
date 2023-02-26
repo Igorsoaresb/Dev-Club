@@ -1,0 +1,131 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    cursor: pointer;
+    color: #17233D;
+    margin-right: 32px;
+
+
+}
+
+.button-suporte {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 1px0;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF
+}
+
+
+.button-ig {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 1px0;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF
+}
+
+.link-header-button {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 1px0;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF
+}
+
+img {margin-top: 100px;
+    display: inline-block;
+    margin-left: 140px;
+}
+
+div {
+    width: 833px;
+    margin-left: 84px;
+    display: inline-block;
+    margin-left: 85px;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-left: 74px;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 500 px;
+    letter-spacing: 0.596154px;
+    color: #6FBF44;
+}
+
+p {
+    margin-left: 84px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.learn-more {
+    margin-top: 0px;
+    margin-left: 0px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: blue;
+    cursor: pointer;
+    border-radius:5px;
+    background: #6FBF44;
+    border: none;
+
+}
+
+.insta {margin-top: 10px;
+    margin-right: 10px;
+    width: 30px;
+    margin-left: 90px;
+    display: inline-block;
+    margin-left: 85px;
+}
+
+.photo-ptojeto {width: 400px;
+margin-left: 200px;
+
+
+
+}
